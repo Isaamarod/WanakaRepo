@@ -1,6 +1,6 @@
 #! /bin/bash
-#script para unificar todas las imagenes con y sin gliomas en una misma carpeta
-#script para unificar todas las etiquetas ""
+#script para unificar todas las imagenes sin mascara son las que cuyo nombre no contienen palabra mask
+
 
 ruta_ori=todo_train/
 
